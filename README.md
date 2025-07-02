@@ -114,4 +114,3 @@ no. of non-attacking states :1854
 ## 📖 Dependencies
 
 *   Standard C++ Library (`<bits/stdc++.h>` for convenience, but specifically `queue`, `string`, `vector`, `iostream` are used).
-```
