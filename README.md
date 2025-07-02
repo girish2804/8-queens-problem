@@ -70,19 +70,10 @@ Run the compiled executable:
 
 After running the program, you will be prompted to enter a number:
 
-```
-_
-```
-
 *   **Enter `1`:** To view all the 92 distinct chessboard configurations that are valid solutions. Each solution will be printed sequentially, followed by an empty line.
 *   **Enter any other number (e.g., `0`, `2`, etc.):** The program will skip printing the individual boards but will still display the total count of solutions and non-attacking states.
 
 Finally, the program will output the total number of solutions and the total number of non-attacking states explored:
-
-```
-no. of solutions :92
-no. of non-attacking states :[some_number_usually_around_1854]
-```
 
 ### Example Output (entering `1`):
 
